@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="custom_string">This is a test app!</string>
+    <string name="image1_description">An image of London Bridge</string>
+</resources>
